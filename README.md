@@ -4,47 +4,33 @@
 
 ---
 
-## FP - Financial Planning ##
+## Accounting Applications ##
 
 **2007**
 
-Real estate investments budget calculations, planning and accounting.
-Supports G&A risks and taxes calculation methodologies.
+- [FP - Financial Planning](projects/fp/)
+> Real estate investments budget calculations, planning and accounting.
+  Supports G&A risks and taxes calculation methodologies.
 
-<details>
-  <summary>Main window</summary>
-  <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/fp/001-main-window.jpg" />
-  </div>
-</details>
+**2008**
 
-<details>
-  <summary>Projects list</summary>
-  <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/fp/002-projects.jpg" />
-  </div>
-</details>
+**2009**
 
-<details>
-  <summary>Data import form</summary>
-  <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/fp/003-import-accounting-data.jpg" />
-  </div>
-</details>
+**2010**
 
-<details>
-  <summary>Budget planning</summary>
-  <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/fp/004-budget-planning.jpg" />
-  </div>
-</details>
+**2011**
 
-<details>
-  <summary>Budget reporting</summary>
-  <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/fp/005-budget-report.jpg" />
-  </div>
-</details>
+**2012**
+
+**2013**
+
+**2014**
+
+**2015**
+
+**2016**
+
+**2017**
 
 ---
 
