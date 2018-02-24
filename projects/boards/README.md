@@ -1,7 +1,5 @@
 # Boards - Accounting of advertising boards #
 
-**2008**
-
 > Accounting of advertising boards
 
 <details>
@@ -87,6 +85,8 @@
     <img max-width="720px" max-height="477px" src="assets/img/Boards-009-documents.png" />
   </div>
 </details>
+
+> :calendar: Developed in **June 2008**
 
 ---
 
