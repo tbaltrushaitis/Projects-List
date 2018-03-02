@@ -6,6 +6,11 @@
 
 ## Accounting Applications ##
 
+**2004**
+
+- [Sklad](projects/sklad/)
+> Fabric accounting application
+
 **2006**
 
 - [Bann](projects/bann/)
@@ -26,7 +31,7 @@
 **2008**
 
 - [Boards](projects/boards/)
-> Accounting of advertising boards.
+> Accounting of advertising boards
 
 **2009**
 
@@ -64,6 +69,7 @@
 - [L-Mebel](projects/l-mebel/)
 - [MailParse](projects/mailparse/)
 - [Market](projects/market/)
+- [Medic](projects/medic/)
 - [RateDrop - CS:GO Gambling Lottery](projects/ratedrop/)
 - [SMS-Diary](projects/sms-diary/)
 - [Sklad](projects/sklad/)
