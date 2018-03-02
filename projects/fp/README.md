@@ -33,7 +33,7 @@ Supports G&A risks and taxes calculation methodologies.
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Budget reporting</summary>
   <div align="center">
     <img max-width="720px" max-height="477px" src="assets/img/005-budget-report.jpg" />
