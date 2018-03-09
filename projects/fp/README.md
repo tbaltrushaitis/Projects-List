@@ -1,7 +1,5 @@
 # FP - Financial Planning #
 
-**2007**
-
 > Real estate investments budget calculations, planning and accounting.
 Supports G&A risks and taxes calculation methodologies.
 
@@ -39,6 +37,8 @@ Supports G&A risks and taxes calculation methodologies.
     <img max-width="720px" max-height="477px" src="assets/img/005-budget-report.jpg" />
   </div>
 </details>
+
+> :calendar: Developed in **August 2007**
 
 ---
 
