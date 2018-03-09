@@ -4,7 +4,10 @@
 
 ---
 
-## Accounting Applications ##
+**2003 - 2004**
+
+- [FoxPro 2.6](projects/foxpro26/)
+> Collection of very old programs written in FoxPro 2.6
 
 **2004**
 
