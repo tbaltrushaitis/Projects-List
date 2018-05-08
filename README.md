@@ -51,6 +51,9 @@
 
 **2011**
 
+- [Market](projects/market/)
+> Shoes shops accounting
+
 **2012**
 
 **2013**
@@ -76,7 +79,6 @@
 - [Knifes - Gambling Interactive Lottery](projects/knifes/)
 - [L-Mebel](projects/l-mebel/)
 - [MailParse](projects/mailparse/)
-- [Market](projects/market/)
 - [Medic](projects/medic/)
 - [RateDrop - CS:GO Gambling Lottery](projects/ratedrop/)
 - [Scratch](projects/scratch/)
