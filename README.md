@@ -11,6 +11,9 @@
 
 **2004**
 
+- [Kassa](projects/kassa/)
+> Utilities payments service
+
 - [Sklad](projects/sklad/)
 > Fabric accounting application
 
@@ -40,10 +43,16 @@
 
 **2010**
 
+- [Aqua](projects/aqua/)
+> Water delivery service
+
 - [Seo-Machine](projects/seo-machine/)
 > Smart content generation tool
 
 **2011**
+
+- [Market](projects/market/)
+> Shoes shops accounting
 
 **2012**
 
@@ -64,21 +73,19 @@
 
 ## TBD ##
 
-- [Scratch](projects/scratch/)
 - [Fax2Mail](projects/fax2mail/)
 - [ftpDownload](projects/ftpdownload/)
 - [Galant](projects/galant/)
 - [Knifes - Gambling Interactive Lottery](projects/knifes/)
 - [L-Mebel](projects/l-mebel/)
 - [MailParse](projects/mailparse/)
-- [Market](projects/market/)
 - [Medic](projects/medic/)
 - [RateDrop - CS:GO Gambling Lottery](projects/ratedrop/)
+- [Scratch](projects/scratch/)
 - [SMS-Diary](projects/sms-diary/)
-- [Sklad](projects/sklad/)
 - [Tower](projects/tower/)
+- [WCL - World Cossackers League](projects/wcl/)
 - [xlsCompare](projects/xlscompare/)
-- [WCL - World Cossackers League](projects/xlscompare/)
 
 ---
 
