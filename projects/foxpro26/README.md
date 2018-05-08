@@ -1,9 +1,9 @@
 # FoxPro 2.6 #
 
-> Collection of very old programs written in FoxPro 2.6.
+> Collection of very old programs written in FoxPro 2.6
 
 <details open>
-  <summary>YNC - "Yes No Cancel"</summary>
+  <summary>YNC - "Yes No Cancel" dialog</summary>
   <div align="center">
     <img max-width="720px" max-height="477px" src="assets/img/ync-3024night-ruby.png" />
   </div>
