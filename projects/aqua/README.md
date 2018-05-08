@@ -5,7 +5,7 @@
 <details open>
   <summary>Overview</summary>
   <div align="center">
-    <img max-width="720px" max-height="477px" src="assets/img/Aqua-001-overview.jpg" />
+    <img max-width="720px" max-height="477px" src="assets/img/aqua-001-overview.jpg" />
   </div>
 </details>
 
