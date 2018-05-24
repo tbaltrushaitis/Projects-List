@@ -14,6 +14,9 @@
 - [Kassa](projects/kassa/)
 > Utilities payments service
 
+- [SayDolg](projects/saydolg/)
+> Automated Information Service - Voice server of payments for utilities
+
 - [Sklad](projects/sklad/)
 > Fabric accounting application
 
@@ -39,8 +42,6 @@
 - [Boards](projects/boards/)
 > Accounting of advertising boards
 
-**2009**
-
 **2010**
 
 - [Aqua](projects/aqua/)
@@ -54,20 +55,10 @@
 - [Market](projects/market/)
 > Shoes shops accounting
 
-**2012**
-
-**2013**
-
-**2014**
-
-**2015**
-
 **2016**
 
 - [Roulette Predictor](projects/roulette-predictor/)
 > Online Casino Analyzer and Predictor
-
-**2017**
 
 ---
 
