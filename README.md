@@ -20,6 +20,11 @@
 - [Sklad](projects/sklad/)
 > Fabric accounting application
 
+**2005**
+
+- [Scratch](projects/scratch/)
+> Mobile services recharge scratch-cards accounting application
+
 **2006**
 
 - [Bann](projects/bann/)
@@ -39,8 +44,19 @@
 
 **2008**
 
+- [ftpDownload](projects/ftpdownload/)
+> Simple and lightweight ftpDownloader working by schedule
+
+- [Fax2Mail](projects/fax2mail/)
+> Service that receive faxes, converts them and send to emails
+
 - [Boards](projects/boards/)
 > Accounting of advertising boards
+
+**2009**
+
+- [SMS-Diary](projects/sms-diary/)
+> Service of notifying parents about the progress of their children in school
 
 **2010**
 
@@ -57,26 +73,31 @@
 
 **2016**
 
+- [RateDrop](projects/ratedrop/)
+> CS:GO Gambling Lottery
+
+- [WayOfHelp](projects/wayofhelp/)
+> User's connections tree visualization module
+
 - [Roulette Predictor](projects/roulette-predictor/)
 > Online Casino Analyzer and Predictor
+
+**2018**
+
+- [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
 
 ---
 
 ## TBD ##
 
-- [Fax2Mail](projects/fax2mail/)
-- [ftpDownload](projects/ftpdownload/)
 - [Galant](projects/galant/)
-- [Knifes - Gambling Interactive Lottery](projects/knifes/)
-- [L-Mebel](projects/l-mebel/)
-- [MailParse](projects/mailparse/)
-- [Medic](projects/medic/)
-- [RateDrop - CS:GO Gambling Lottery](projects/ratedrop/)
-- [Scratch](projects/scratch/)
-- [SMS-Diary](projects/sms-diary/)
 - [Tower](projects/tower/)
-- [WCL - World Cossackers League](projects/wcl/)
+- [Medic - Medical clinic patients and services accounting](projects/medic/)
 - [xlsCompare](projects/xlscompare/)
+- [MailParse](projects/mailparse/)
+- [L-Mebel](projects/l-mebel/)
+- [Knifes - Gambling Interactive Lottery](projects/knifes/)
+- [WCL - World Cossackers League](projects/wcl/)
 
 ---
 

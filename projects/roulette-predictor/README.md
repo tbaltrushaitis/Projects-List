@@ -11,7 +11,7 @@ For more info visit :point_right: [Predictor repository](https://github.com/tbal
   </div>
 </details>
 
-> :calendar: Developed in **March 2016**
+> :calendar: Developed in **June 2016**
 
 ---
 
