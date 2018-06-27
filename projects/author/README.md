@@ -1,6 +1,6 @@
 # Author #
 
-> Royalty Payments Database
+> Royalty rights payments database
 
 <details open>
   <summary>Main window</summary>

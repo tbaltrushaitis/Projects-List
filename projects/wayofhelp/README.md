@@ -1,6 +1,6 @@
 # WayOfHelp #
 
-> User's connections tree visualization module
+> User's relations tree visualization module
 
 <details open>
   <summary>Proof-of-concept</summary>

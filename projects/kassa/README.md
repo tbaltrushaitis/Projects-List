@@ -1,6 +1,6 @@
 # Kassa #
 
-> Utilities payments service
+> Accounting of Utilities payments
 
 <details open>
   <summary>Client stats</summary>

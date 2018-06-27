@@ -1,6 +1,6 @@
 # Sklad #
 
-> Fabric accounting application
+> Accounting of baby wear production fabric
 
 <details>
   <summary>Overview</summary>

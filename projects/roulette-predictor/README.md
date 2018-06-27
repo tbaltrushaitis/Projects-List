@@ -1,6 +1,6 @@
 # Roulette Predictor #
 
-> Online Casino Roulette Analyzer and Predictor
+> Online casino analyzer and predictor
 
 For more info visit :point_right: [Predictor repository](https://github.com/tbaltrushaitis/roulette-predictor) :point_left:
 

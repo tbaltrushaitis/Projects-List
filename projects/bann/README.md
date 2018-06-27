@@ -1,6 +1,6 @@
 # Bann #
 
-> Private baths administration and accounting
+> Accounting of private baths administration
 
 <details open>
   <summary>Main window</summary>

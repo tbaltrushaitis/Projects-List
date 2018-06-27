@@ -6,98 +6,69 @@
 
 **2003 - 2004**
 
-- [FoxPro 2.6](projects/foxpro26/)
-> Collection of very old programs written in FoxPro 2.6
+- [x] [FoxPro 2.6](projects/foxpro26/) - Collection of very old programs written in FoxPro 2.6
 
 **2004**
 
-- [Kassa](projects/kassa/)
-> Utilities payments service
-
-- [SayDolg](projects/saydolg/)
-> Automated Information Service - Voice server of payments for utilities
-
-- [Sklad](projects/sklad/)
-> Fabric accounting application
+- [x] [Kassa](projects/kassa/) - Accounting of Utilities payments
+- [x] [SayDolg](projects/saydolg/) - Automated Information Service - Voice server of payments for utilities
+- [x] [Sklad](projects/sklad/) - Accounting of baby wear production fabric
 
 **2005**
 
-- [Scratch](projects/scratch/)
-> Mobile services recharge scratch-cards accounting application
+- [x] [Scratch](projects/scratch/) - Accounting mobile services recharge scratch-cards
 
 **2006**
 
-- [Bann](projects/bann/)
-> Private baths administration and accounting
-
-- [DomSlugba](projects/domslugba/)
-> Home services accounting
+- [x] [Bann](projects/bann/) - Accounting of private baths administration
+- [x] [DomSlugba](projects/domslugba/) - Home services accounting
 
 **2007**
 
-- [FP - Financial Planning](projects/fp/)
-> Real estate investments budget calculations, planning and accounting.
-  Supports G&A risks and taxes calculation methodologies.
-
-- [Author](projects/author/)
-> Royalty Payments Database
+- [x] [Financial Planning](projects/fp/) - Real estate investments budget calculations, planning and accounting
+- [x] [Author](projects/author/) - Royalty rights payments database
 
 **2008**
 
-- [ftpDownload](projects/ftpdownload/)
-> Simple and lightweight ftpDownloader working by schedule
-
-- [Fax2Mail](projects/fax2mail/)
-> Service that receive faxes, converts them and send to emails
-
-- [Boards](projects/boards/)
-> Accounting of advertising boards
+- [x] [ftpDownload](projects/ftpdownload/) - Simple and lightweight ftpDownloader working by schedule
+- [x] [Fax2Mail](projects/fax2mail/) - Service that receive faxes, converts them and send to emails
+- [x] [Boards](projects/boards/) - Accounting of advertising boards
 
 **2009**
 
-- [SMS-Diary](projects/sms-diary/)
-> Service of notifying parents about the progress of their children in school
+- [x] [SMS-Diary](projects/sms-diary/) - Service of notifying parents about the progress of their children in school
 
 **2010**
 
-- [Aqua](projects/aqua/)
-> Water delivery service
-
-- [Seo-Machine](projects/seo-machine/)
-> Smart content generation tool
+- [x] [Aqua](projects/aqua/) - Water delivery service accounting
+- [x] [Seo-Machine](projects/seo-machine/) - Smart content generation tool
 
 **2011**
 
-- [Market](projects/market/)
-> Shoes shops accounting
+- [x] [Market](projects/market/) - Accounting of shoes shops
 
 **2016**
 
-- [RateDrop](projects/ratedrop/)
-> CS:GO Gambling Lottery
-
-- [WayOfHelp](projects/wayofhelp/)
-> User's connections tree visualization module
-
-- [Roulette Predictor](projects/roulette-predictor/)
-> Online Casino Analyzer and Predictor
+- [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
+- [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
+- [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino analyzer and predictor
 
 **2018**
 
-- [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
+- [x] [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
 
 ---
 
 ## TBD ##
 
-- [Galant](projects/galant/)
-- [Tower](projects/tower/)
-- [Medic - Medical clinic patients and services accounting](projects/medic/)
-- [xlsCompare](projects/xlscompare/)
-- [MailParse](projects/mailparse/)
-- [L-Mebel](projects/l-mebel/)
-- [Knifes - Gambling Interactive Lottery](projects/knifes/)
-- [WCL - World Cossackers League](projects/wcl/)
+- [ ] [Galant](projects/galant/)
+- [ ] [Tower](projects/tower/)
+- [ ] [Medic](projects/medic/) - Medical clinic patients and services accounting
+- [ ] [xlsCompare](projects/xlscompare/)
+- [ ] [MailParse](projects/mailparse/)
+- [ ] [L-Mebel](projects/l-mebel/)
+- [ ] [Knifes](projects/knifes/) - Interactive Gambling Lottery
+- [ ] [WCL](projects/wcl/) - World Cossackers League
 
 ---
 
