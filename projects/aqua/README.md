@@ -1,6 +1,6 @@
 # Aqua #
 
-> Water delivery service
+> Water delivery service accounting
 
 <details open>
   <summary>Overview</summary>

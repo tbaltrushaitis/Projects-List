@@ -1,6 +1,6 @@
 # Market #
 
-> Shoes shops accounting
+> Accounting of shoes shops
 
 <details open>
   <summary>Overview</summary>

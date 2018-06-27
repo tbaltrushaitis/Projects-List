@@ -1,6 +1,6 @@
 # Scratch #
 
-> Mobile services recharge scratch-cards accounting application
+> Accounting mobile services recharge scratch-cards
 
 <details open>
   <summary>Overview</summary>

@@ -1,6 +1,6 @@
 # Seo Machine #
 
-> Smart content generator for bulk creation of sites based on wordpress engine
+> Smart content generation tool for bulk creation of sites based on wordpress engine
 
 <details open>
   <summary>Main window</summary>
