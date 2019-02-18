@@ -16,7 +16,7 @@
 
 **2005**
 
-- [x] [Scratch](projects/scratch/) - Accounting mobile services recharge scratch-cards
+- [x] [Scratch](projects/scratch/) - Accounting system of electronic payment vouchers for services of mobile operators
 
 **2006**
 
