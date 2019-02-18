@@ -1,6 +1,6 @@
 # Scratch #
 
-> Accounting mobile services recharge scratch-cards
+> Accounting system of electronic payment vouchers for services of mobile operators
 
 <details open>
   <summary>Overview</summary>
