@@ -1,6 +1,6 @@
 # Projects List #
 
-:floppy_disk: List of all tasks, projects, algorythms, researches, etc. ever done
+:floppy_disk: List of all ever done tasks, created projects, studied algorythms, researches made, etc.
 
 ---
 
@@ -30,6 +30,7 @@
 
 **2008**
 
+- [x] [xlsCompare](projects/xlscompare/) - Excel documents comparsion tool
 - [x] [ftpDownload](projects/ftpdownload/) - Simple and lightweight ftpDownloader working by schedule
 - [x] [Fax2Mail](projects/fax2mail/) - Service that receive faxes, converts them and send to emails
 - [x] [Boards](projects/boards/) - Accounting of advertising boards
@@ -64,7 +65,6 @@
 - [ ] [Galant](projects/galant/)
 - [ ] [Tower](projects/tower/)
 - [ ] [Medic](projects/medic/) - Medical clinic patients and services accounting
-- [ ] [xlsCompare](projects/xlscompare/)
 - [ ] [MailParse](projects/mailparse/)
 - [ ] [L-Mebel](projects/l-mebel/)
 - [ ] [Knifes](projects/knifes/) - Interactive Gambling Lottery
