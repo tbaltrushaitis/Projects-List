@@ -7,7 +7,7 @@
 **2003 - 2004**
 
 - [x] [FoxPro 2.6](projects/foxpro26/) - Collection of very old programs written in FoxPro 2.6
-- [x] [Haffman coding algorythm](projects/haffman/) - archiver based on [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
+- [x] [Huffman coding algorythm](projects/huffman/) - archiver based on [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
 
 **2004**
 
