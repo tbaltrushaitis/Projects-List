@@ -49,6 +49,9 @@
 
 - [x] [Market](projects/market/) - Accounting of shoes shops
 
+**2015**
+- [x] [Wailing Wall](projects/wailing-wall/) - Animated visualization of [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
+
 **2016**
 
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
@@ -70,7 +73,6 @@
 - [ ] [L-Mebel](projects/l-mebel/)
 - [ ] [Knifes](projects/knifes/) - Interactive Gambling Lottery
 - [ ] [WCL](projects/wcl/) - World Cossackers League
-- [ ] [Wailing Wall](projects/wailing-wall/) - Animated visualization of [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
 
 
 ---

@@ -9,7 +9,7 @@
   </div>
 </details>
 
-> :calendar: Developed in **Month YEAR**
+> :calendar: Developed in **November 2015**
 
 ---
 
