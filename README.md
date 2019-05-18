@@ -27,13 +27,13 @@
 **2007**
 
 - [x] [Financial Planning](projects/fp/) - Real estate investments budget calculations, planning and accounting
-- [x] [Author](projects/author/) - Royalty rights payments database
+- [x] [Author](projects/author/) - Royalty rights payments database management system
 
 **2008**
 
 - [x] [xlsCompare](projects/xlscompare/) - Excel documents comparsion tool
 - [x] [ftpDownload](projects/ftpdownload/) - Simple and lightweight ftpDownloader working by schedule
-- [x] [Fax2Mail](projects/fax2mail/) - Service that receive faxes, converts them and send to emails
+- [x] [Fax2Mail](projects/fax2mail/) - Software used by service that receive faxes, converts them and send to emails
 - [x] [Boards](projects/boards/) - Accounting of advertising boards
 
 **2009**
@@ -50,28 +50,34 @@
 - [x] [Market](projects/market/) - Accounting of shoes shops
 
 **2015**
-- [x] [Wailing Wall](projects/wailing-wall/) - Animated visualization of [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
+- [x] [Wailing Wall](projects/wailing-wall/) - Digitally visualized [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
 
 **2016**
 
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
-- [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino analyzer and predictor
+- [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
 
 **2018**
 
 - [x] [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
 
+**2019**
+
 ---
 
-## TBD ##
+## To be defined ##
 
-- [ ] [Galant](projects/galant/)
-- [ ] [Tower](projects/tower/)
-- [ ] [Medic](projects/medic/) - Medical clinic patients and services accounting
-- [ ] [MailParse](projects/mailparse/)
-- [ ] [L-Mebel](projects/l-mebel/)
+- [ ] [Galant](projects/galant/) - Haberdashery accounting
+- [ ] [GSM-Accounter](projects/gsm-accounter/) - Unique accounts charging system for mobile network
+- [ ] [IMS](projects/ims/) - Incidents management system
+- [ ] [GameSpy Bot](projects/gsbot/) - Chat bot for IRC channels
 - [ ] [Knifes](projects/knifes/) - Interactive Gambling Lottery
+- [ ] [L-Mebel](projects/l-mebel/) - Furniture factory accounting system
+- [ ] [Medic](projects/medic/) - Medical clinic's patients and services accounting
+- [ ] [MailParse](projects/mailparse/) - Emails parsing system
+- [ ] [Tower](projects/tower/) - Restaurants accounting
+- [ ] [Urgent](projects/urgent/) - Notifications management platform
 - [ ] [WCL](projects/wcl/) - World Cossackers League
 
 
