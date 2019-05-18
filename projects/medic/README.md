@@ -1,6 +1,6 @@
 # Medic #
 
-> Medical clinic patients and services accounting
+> Medical clinic's patients and services accounting
 
 <details open>
   <summary>Overview</summary>
