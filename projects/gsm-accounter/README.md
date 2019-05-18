@@ -1,0 +1,16 @@
+# GSM-Accounter #
+
+> Unique accounts charging system for mobile network
+
+<details open>
+  <summary>Overview</summary>
+  <div align="center">
+    <img max-width="720px" max-height="477px" src="assets/img/screenshot-001-overview.png" />
+  </div>
+</details>
+
+> :calendar: Developed in **Month YEAR**
+
+---
+
+:scorpius:
