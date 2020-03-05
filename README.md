@@ -58,6 +58,10 @@
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
 - [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
 
+**2017**
+
+- [x] [Visitors Tracker](projects/visitors-tracker/) - Visitors Tracker
+
 **2018**
 
 - [x] [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
