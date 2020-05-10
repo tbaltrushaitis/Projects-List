@@ -57,6 +57,7 @@
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
 - [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
+- [x] [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs that make work in Linux terminal more informative, fun and faster
 
 **2017**
 
