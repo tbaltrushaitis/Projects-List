@@ -28,6 +28,7 @@
 
 - [x] [Financial Planning](projects/fp/) - Real estate investments budget calculations, planning and accounting
 - [x] [Author](projects/author/) - Royalty rights payments database management system
+- [x] [Ntfs-3g](http://research.m1stereo.tv/wiki/index.php/Ntfs-3g) - Mounting ntfs partitions in linux
 
 **2008**
 
@@ -38,7 +39,7 @@
 
 **2009**
 
-- [x] [SMS-Diary](projects/sms-diary/) - Service of notifying parents about the progress of their children in school
+- [x] [SMS-Diary](projects/sms-diary/) - Service of notifying parents about the progress of their children in school education
 
 **2010**
 
@@ -49,24 +50,29 @@
 
 - [x] [Market](projects/market/) - Accounting of shoes shops
 
+**2014**
+
+- [x] [LVS-VMS](https://github.com/tbaltrushaitis/lvs-vms) - :mechanic: Visual diagram of OpenStack virtual hosts distribution across hypervisors
+
 **2015**
+
 - [x] [Wailing Wall](projects/wailing-wall/) - Digitally visualized [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
 
 **2016**
 
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
-- [x] [CV](https://github.com/tbaltrushaitis/cv) - :mortar_board: CV, Resume and Portfolio website template
+- [x] [CV](https://github.com/tbaltrushaitis/cv) - :mortar_board: Resume and Portfolio website template
 - [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
 - [x] [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs
 
 **2017**
 
-- [x] [Visitors Tracker](projects/visitors-tracker/) - Visitors Tracker
+- [x] [Tracker](projects/visitors-tracker/) - Cross-site Visitors Identification and Tracking platform
 
 **2018**
 
-- [x] [Git Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
+- [x] [Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
 
 **2019**
 
