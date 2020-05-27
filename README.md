@@ -80,7 +80,7 @@
 
 **2019**
 
-- [x] :blonde_woman: [Woman Insight](https://cwi.womaninsight.club/) - Сообщество женского развития
+- [x] :woman: [Woman Insight](https://cwi.womaninsight.club/) - Сообщество женского развития
 
 ---
 
