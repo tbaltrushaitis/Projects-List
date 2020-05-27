@@ -92,8 +92,8 @@
 - [x] :small_blue_diamond: [GameSpy Bot](projects/gsbot/) - Chat bot for IRC channels
 - [x] :knife: [Knifes](projects/knifes/) - Interactive CS:GO Gambling Lottery
 - [x] :small_blue_diamond: [L-Mebel](projects/l-mebel/) - Furniture factory accounting system
-- [x] :small_blue_diamond: [Medic](projects/medic/) - Medical clinic's patients and services accounting
-- [x] :small_blue_diamond: [MailParse](projects/mailparse/) - Emails parsing system
+- [x] :pill: [Medic](projects/medic/) - Medical clinic's patients and services accounting
+- [x] :e-mail: [MailParse](projects/mailparse/) - Emails parsing system
 - [x] :small_blue_diamond: [Tower](projects/tower/) - Restaurants accounting
 - [x] :small_blue_diamond: [Urgent](projects/urgent/) - Notifications management platform
 - [x] :guardsman: [WCL](projects/wcl/) - World Cossackers League
