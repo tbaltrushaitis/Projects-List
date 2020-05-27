@@ -7,7 +7,7 @@
 **2003 - 2004**
 
 - [x] [FoxPro 2.6](projects/foxpro26/) - Collection of very old programs written in FoxPro 2.6
-- [x] [Huffman coding algorythm](projects/huffman/) - archiver based on [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
+- [x] [Huffman coding algorythm](projects/huffman/) - an implementation of archiver based on [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
 
 **2004**
 
@@ -56,20 +56,21 @@
 
 **2015**
 
-- [x] [Wailing Wall](projects/wailing-wall/) - Digitally visualized [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
+- [x] :six_pointed_star: [Wailing Wall](projects/wailing-wall/) - Digitally visualized [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
 
 **2016**
 
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
 - [x] :mortar_board: [CV](https://github.com/tbaltrushaitis/cv) - Resume and Portfolio website template
-- [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
+- [x] :game_die: [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
 - [x] :headphones: [mp3web](https://github.com/tbaltrushaitis/mp3web) - Web MP3 Player and Media Library Manager
 - [x] :bar_chart: [CMDB-rtm](https://github.com/tbaltrushaitis/cmdb-rtm) - Real-time Tasks Progress Visualized Monitoring
 - [x] :hash: [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs
 
 **2017**
 
+- [x] :tokyo_tower: [Tower Strike](https://github.com/tbaltrushaitis/tower-strike) - Simulator of a game where the goal is to kill the enemies by using a tower
 - [x] [Tracker](projects/visitors-tracker/) - Cross-site Visitors Identification and Tracking platform
 - [x] :mushroom: [HTTP Error 404 Page](https://github.com/tbaltrushaitis/animated-error-404-page) - `HTTP Error 404 - Page Not Found` error page with Text Rotations and Social Icons
 
