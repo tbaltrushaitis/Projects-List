@@ -64,6 +64,7 @@
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
 - [x] [CV](https://github.com/tbaltrushaitis/cv) - :mortar_board: Resume and Portfolio website template
 - [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
+- [x] [mp3web](https://github.com/tbaltrushaitis/mp3web) - :headphones: Web MP3 Player and Media Library Manager
 - [x] [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs
 
 **2017**
