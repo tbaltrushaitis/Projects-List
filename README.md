@@ -28,7 +28,7 @@
 
 - [x] [Financial Planning](projects/fp/) - Real estate investments budget calculations, planning and accounting
 - [x] [Author](projects/author/) - Royalty rights payments database management system
-- [x] [Ntfs-3g](http://research.m1stereo.tv/wiki/index.php/Ntfs-3g) - Mounting ntfs partitions in linux
+- [x] [Ntfs-3g](http://research.m1stereo.tv/wiki/index.php/Ntfs-3g) - **Mounting ntfs partitions in linux** - article written for `M1 Research` wiki
 
 **2008**
 
@@ -52,7 +52,7 @@
 
 **2014**
 
-- [x] [LVS-VMS](https://github.com/tbaltrushaitis/lvs-vms) - :mechanic: Visual diagram of OpenStack virtual hosts distribution across hypervisors
+- [x] :mechanic: [LVS-VMS](https://github.com/tbaltrushaitis/lvs-vms) - Visual diagram of OpenStack virtual hosts distribution across hypervisors
 
 **2015**
 
@@ -62,18 +62,20 @@
 
 - [x] [RateDrop](projects/ratedrop/) - Gambling Lottery
 - [x] [WayOfHelp](projects/wayofhelp/) - User's relations tree visualization module
-- [x] [CV](https://github.com/tbaltrushaitis/cv) - :mortar_board: Resume and Portfolio website template
+- [x] :mortar_board: [CV](https://github.com/tbaltrushaitis/cv) - Resume and Portfolio website template
 - [x] [Roulette Predictor](projects/roulette-predictor/) - Online casino roulette analyzer and predictor
-- [x] [mp3web](https://github.com/tbaltrushaitis/mp3web) - :headphones: Web MP3 Player and Media Library Manager
-- [x] [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs
+- [x] :headphones: [mp3web](https://github.com/tbaltrushaitis/mp3web) - Web MP3 Player and Media Library Manager
+- [x] :bar_chart: [CMDB-rtm](https://github.com/tbaltrushaitis/cmdb-rtm) - Real-time Tasks Progress Visualized Monitoring
+- [x] :hash: [Bash Files](https://github.com/tbaltrushaitis/bash-files) - Stack of useful .bashrc configs
 
 **2017**
 
 - [x] [Tracker](projects/visitors-tracker/) - Cross-site Visitors Identification and Tracking platform
+- [x] :mushroom: [HTTP Error 404 Page](https://github.com/tbaltrushaitis/animated-error-404-page) - `HTTP Error 404 - Page Not Found` error page with Text Rotations and Social Icons
 
 **2018**
 
-- [x] [Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
+- [x] :octocat: [Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
 
 **2019**
 
