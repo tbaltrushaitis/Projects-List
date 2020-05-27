@@ -4,7 +4,7 @@
 
 ---
 
-**2003 - 2004**
+**2002 - 2004**
 
 - [x] :fox_face: [FoxPro 2.6](projects/foxpro26/) - Collection of very old programs written in FoxPro 2.6
 - [x] :small_orange_diamond: [Huffman coding algorythm](projects/huffman/) - an implementation of archiver based on [Huffman algorithm](https://en.wikipedia.org/wiki/Huffman_coding)
@@ -80,7 +80,7 @@
 
 **2019**
 
-- [x] :octocat: [Emoji Cheat Sheet](https://github.com/tbaltrushaitis/git-emoji-cheat-sheet)
+- [x] :blonde_woman: [Woman Insight](https://cwi.womaninsight.club/) - Сообщество женского развития
 
 ---
 
@@ -96,7 +96,7 @@
 - [x] :small_blue_diamond: [MailParse](projects/mailparse/) - Emails parsing system
 - [x] :small_blue_diamond: [Tower](projects/tower/) - Restaurants accounting
 - [x] :small_blue_diamond: [Urgent](projects/urgent/) - Notifications management platform
-- [x] :small_blue_diamond: [WCL](projects/wcl/) - World Cossackers League
+- [x] :guardsman: [WCL](projects/wcl/) - World Cossackers League
 
 ---
 
