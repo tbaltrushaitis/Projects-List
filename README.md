@@ -50,6 +50,10 @@
 
 - [x] :shoe: [Market](projects/market/) - Accounting of shoes shops
 
+**2013**
+
+- [x] :guardsman: [WCL](http://bit.ly/wcl-com) - World Cossackers League
+
 **2014**
 
 - [x] :mechanic: [LVS-VMS](https://github.com/tbaltrushaitis/lvs-vms) - Visual diagram of OpenStack virtual hosts distribution across hypervisors
@@ -100,8 +104,7 @@
 - [x] :e-mail: [MailParse](projects/mailparse/) - Emails parsing system
 - [x] :small_blue_diamond: [Tower](projects/tower/) - Restaurants accounting
 - [x] :small_blue_diamond: [Urgent](projects/urgent/) - Notifications management platform
-- [x] :guardsman: [WCL](projects/wcl/) - World Cossackers League
 
 ---
 
-:scorpius:
+:scorpion:
