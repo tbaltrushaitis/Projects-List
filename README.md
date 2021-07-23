@@ -65,7 +65,7 @@
 ## 2015 ##
 
 - :six_pointed_star: [Wailing Wall](projects/wailing-wall/) - Digitally visualized [Western Wall](https://en.wikipedia.org/wiki/Western_Wall) wishes processing mechanizm
-- :cubes: [CMDB](projects/cmdb/) - Configuration Management Database
+- :computer: [CMDB](projects/cmdb/) - Configuration Management Database
 
 ## 2016 ##
 
