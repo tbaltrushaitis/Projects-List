@@ -1,6 +1,8 @@
 # Visitors Tracker #
 
-> Cross-site customer identification and behavior prediction
+> Cross-site customer identification and AI-based behavior prediction
+
+> Перекрестная идентификация посетителя и предсказание поведения адаптивным ИИ
 
 <details open>
   <summary>Overview</summary>
@@ -9,7 +11,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Network View 003</summary>
   <div align="center">
     <img max-width="1146px" max-height="729px" src="assets/img/tracker-network-003.png" />
@@ -30,7 +32,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Network View 008</summary>
   <div align="center">
     <img max-width="655px" max-height="650px" src="assets/img/tracker-network-008.png" />
@@ -56,7 +58,7 @@
   <div align="center">
     <img max-width="1518px" max-height="763px" src="assets/img/trkcg-admin-carts-001.png" />
   </div>
-</details>
+</details open>
 
 <details>
   <summary>Admin - Devices</summary>
@@ -79,7 +81,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Admin - Visits</summary>
   <div align="center">
     <img max-width="1517px" max-height="762px" src="assets/img/trkcg-admin-visits-001.png" />
