@@ -25,7 +25,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Network View 007</summary>
   <div align="center">
     <img max-width="1552px" max-height="724px" src="assets/img/tracker-network-007.png" />
