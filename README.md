@@ -1,6 +1,6 @@
 # Projects List #
 
-:floppy_disk: List of all ever done tasks, created projects, studied algorithms, researches made, etc.
+:genie_man: List of all ever done :chair: tasks and :factory: projects, :heavy_check_mark: studied algorithms, researches made, etc :floppy_disk:
 
 ---
 
@@ -14,8 +14,8 @@
 
 ## 2004 ##
 
-- :moneybag: [Kassa](projects/kassa/) - Accounting of utility payments
-- :calling: [SayDolg](projects/saydolg/) - **Voice Chat Bot** for Payments System (Automated Information Service - ***AIS***)
+- :moneybag: [Kassa](projects/kassa/) - Accounting of Utility Payments System
+- :calling: [SayDolg](projects/saydolg/) - Voice **Chat Bot** for Utility Payments System (Automated Information Service - ***AIS***)
 - :baby_symbol: [Sklad](projects/sklad/) - Accounting of baby wear production fabric
 
 ## 2005 ##
@@ -26,6 +26,7 @@
 
 - :hotsprings: [Bann](projects/bann/) - Accounting of private baths administration
 - :house: [DomSlugba](projects/domslugba/) - Home services accounting
+- :medical_symbol: [Medic](projects/medic/) - Medical clinic patients and services accounting
 
 ## 2007 ##
 
@@ -118,7 +119,6 @@
 - :male_detective: [IMS](projects/ims/) - Incidents management system
 - :knife: [Knifes](projects/knifes/) - Interactive CS:GO Gambling Lottery
 - :chair: [L-Mebel](projects/l-mebel/) - Furniture factory accounting system
-- :medical_symbol: [Medic](projects/medic/) - Medical clinic's patients and services accounting
 - :fork_and_knife: [Tower](projects/tower/) - Restaurants accounting
 - :loud_sound: [Urgent](projects/urgent/) - Notifications management platform
 
