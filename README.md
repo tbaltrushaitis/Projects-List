@@ -62,6 +62,7 @@
 ## 2014 ##
 
 - :mechanic: [LVS-VMS](https://github.com/tbaltrushaitis/lvs-vms) - Visual diagram of OpenStack virtual hosts distribution across hypervisors
+- :heavy_check_mark: [Uni-Test](https://github.com/tbaltrushaitis/uni-test) - Interactive assessment engine functionality example
 
 ## 2015 ##
 
